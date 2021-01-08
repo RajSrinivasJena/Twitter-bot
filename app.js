@@ -43,6 +43,3 @@ else {
 }
 })
 
-
-// Run every 60 seconds
-//setInterval(function() { retweet('#DataScience OR #DataVisualization'); }, 60000)
